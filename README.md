@@ -22,3 +22,5 @@ générer un dictionnaire dont le thème correspond
 comparaison entre la phrase souvenir et le dico
 
 tableau souvenir
+
+évaluer un souvenir comme un commentaire ?
