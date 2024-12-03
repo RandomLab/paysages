@@ -11,3 +11,14 @@ npm install -g live-server
 # référence
 
 https://www.newrafael.com/internet/
+
+# note
+
+analyse de sentiments avec ia et python
+traitement du langage naturel
+API avec flask
+
+générer un dictionnaire dont le thème correspond
+comparaison entre la phrase souvenir et le dico
+
+tableau souvenir
