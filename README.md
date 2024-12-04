@@ -12,7 +12,7 @@ npm install -g live-server
 
 https://www.newrafael.com/internet/
 
-# note
+# TODO
 
 analyse de sentiments avec ia et python
 traitement du langage naturel
@@ -24,3 +24,6 @@ comparaison entre la phrase souvenir et le dico
 tableau souvenir
 
 évaluer un souvenir comme un commentaire ?
+
+https://spacy.io/
+analyser une phrase et en extraire une note
