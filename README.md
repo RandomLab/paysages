@@ -27,3 +27,16 @@ tableau souvenir
 
 https://spacy.io/
 analyser une phrase et en extraire une note
+
+# api
+`uvicorn main:app --reload`
+
+`pip install --upgrade pip setuptools wheel`
+
+`pip install --no-cache-dir spacy`
+
+https://www.kaggle.com/code/krutarthhd/sentiment-classification-using-spacy
+https://spacy.io/universe/project/spacy-textblob
+https://www.kaggle.com/code/fedi1996/french-sentiment-analysis-using-textblob
+
+jupyter notebook

@@ -89,3 +89,17 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+.idea/
+.vscode/
+.venv*/
+venv*/
+__pycache__/
+dist/
+.coverage*
+htmlcov/
+.tox/
+docs/_build/
+
+.python-version
+.ipynb_checkpoints
